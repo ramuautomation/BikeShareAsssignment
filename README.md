@@ -16,9 +16,8 @@ A bike-sharing system is a service in which bikes are made available for shared 
     •	NumPy - 1.26.4
     •	Matplotlib - 3.8.0
     •	Seaborn - 0.13.2
-	•	statsmodels - 0.14.0
-	•	sklearn - 1.2.2
-	•	scipy - 1.14.1
+    •	statsmodels - 0.14.0
+    •	sklearn - 1.2.2
 
 ## Conclusion
 
